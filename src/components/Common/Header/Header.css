@@ -1,0 +1,19 @@
+.container-fluid {
+  padding: 0px !important;
+}
+
+.navbar-inner {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px;
+  /* font-size: 1.2rem; */
+  background: aliceblue;
+}
+
+.brand {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: cursive;
+}

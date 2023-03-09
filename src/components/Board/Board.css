@@ -1,0 +1,46 @@
+.board-container {
+  padding: 0 !important;
+  padding-right: 0.5rem !important;
+}
+.board-container:last-child {
+  padding-right: 0 !important;
+}
+.board {
+  min-width: 230px;
+  max-height: 100%;
+  flex-basis: 290px;
+  display: flex;
+  flex-direction: column;
+}
+
+.board_header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.board_header_title {
+  font-weight: bold;
+  font-size: 1rem;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  margin: 0;
+  margin-left: 10px;
+}
+
+.board_header_title span {
+  color: rgb(145, 145, 145);
+}
+
+.board_cards {
+  background-color: #d5d5d5;
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  overflow-y: auto;
+  /* min-height: 100vh; */
+  height: 68vh;
+}

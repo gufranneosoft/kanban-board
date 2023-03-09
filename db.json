@@ -1,0 +1,178 @@
+{
+  "users": [
+    {
+      "id": "ga",
+      "name": "Gufran",
+      "userName": "ga",
+      "emailId": "g@a.com",
+      "password": "1234",
+      "phone": "",
+      "profileImage": ""
+    },
+    {
+      "id": "ab",
+      "name": "adf",
+      "userName": "ab",
+      "emailId": "ab@ab.com",
+      "password": "1234",
+      "phone": "",
+      "profileImage": "blob:http://localhost:3000/4fcbaa9e-9582-4db6-ad94-c2ef15bb713b"
+    },
+    {
+      "id": "vasu",
+      "name": "Vasu Gupta",
+      "userName": "vasu",
+      "emailId": "vasu@gmail.com",
+      "password": "1234",
+      "phone": "",
+      "profileImage": ""
+    },
+    {
+      "id": "raju",
+      "name": "Raju Singh",
+      "userName": "raju",
+      "emailId": "raju@gmail.com",
+      "password": "1234",
+      "phone": "",
+      "profileImage": "blob:http://localhost:3000/639decea-0873-4d09-b8c3-2895a72127a5"
+    },
+    {
+      "id": "rrr",
+      "name": "Raja Raju",
+      "userName": "rrr",
+      "emailId": "rrr@test.com",
+      "password": "1234",
+      "phone": "",
+      "profileImage": ""
+    },
+    {
+      "id": "myselfgufran@gmail.com",
+      "name": "Gufran Ansari",
+      "userName": "myselfgufran@gmail.com",
+      "emailId": "myselfgufran@gmail.com",
+      "password": "",
+      "phone": "",
+      "profileImage": "https://lh3.googleusercontent.com/a/AGNmyxag_9XixFkZiZqnjLTEjP1Yp6AdF_n10TBpJ8phFQ=s96-c"
+    },
+    {
+      "id": "gufranneosoft@gmail.com",
+      "name": "Gufran Ansari",
+      "userName": "gufranneosoft@gmail.com",
+      "emailId": "gufranneosoft@gmail.com",
+      "password": "",
+      "phone": "",
+      "profileImage": "https://lh3.googleusercontent.com/a/AGNmyxb3pKZVYpKtL5x9JUNlNRfNtfhUEf6dAhFDU17Y=s96-c"
+    },
+    {
+      "id": "vkumar",
+      "name": "Vishal Kumar",
+      "userName": "vkumar",
+      "emailId": "vkumar@test.com",
+      "password": "1234",
+      "phone": "918388838888",
+      "profileImage": "blob:http://localhost:3000/2461b434-d51f-4c2e-8287-533389039f36"
+    }
+  ],
+  "boards": {
+    "bds": [
+      {
+        "id": "Backlog",
+        "title": "Backlog",
+        "stage": 0,
+        "cards": [
+          {
+            "id": 1678255363754,
+            "name": "t1",
+            "stage": 0,
+            "priority": {
+              "title": "low",
+              "color": "#00cb00"
+            },
+            "deadline": "2023-03-23"
+          }
+        ]
+      },
+      {
+        "id": "To Do",
+        "title": "To Do",
+        "stage": 1,
+        "cards": [
+          {
+            "id": 103,
+            "name": "t66",
+            "stage": 1,
+            "priority": {
+              "title": "high",
+              "color": "#ff0000"
+            },
+            "deadline": "2023-03-29"
+          },
+          {
+            "id": 328,
+            "name": "t2",
+            "stage": 1,
+            "priority": {
+              "title": "high",
+              "color": "#ff0000"
+            },
+            "deadline": "2023-03-30"
+          }
+        ]
+      },
+      {
+        "id": "Ongoing",
+        "title": "Ongoing",
+        "stage": 2,
+        "cards": [
+          {
+            "id": 253,
+            "name": "t3",
+            "stage": 2,
+            "priority": {
+              "title": "low",
+              "color": "#00cb00"
+            },
+            "deadline": "2023-03-17"
+          },
+          {
+            "id": 841,
+            "name": "t5",
+            "stage": 2,
+            "priority": {
+              "title": "high",
+              "color": "#ff0000"
+            },
+            "deadline": "2023-03-15"
+          }
+        ]
+      },
+      {
+        "id": "Done",
+        "title": "Done",
+        "stage": 3,
+        "cards": [
+          {
+            "id": 993,
+            "name": "t4",
+            "stage": 3,
+            "priority": {
+              "title": "medium",
+              "color": "#747420"
+            },
+            "deadline": "2023-03-31"
+          },
+          {
+            "id": 1678188134206,
+            "name": "t9",
+            "stage": 3,
+            "priority": {
+              "title": "medium",
+              "color": "#747420"
+            },
+            "deadline": "2023-03-17"
+          }
+        ]
+      }
+    ]
+  }
+}
